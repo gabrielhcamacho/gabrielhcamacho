@@ -40,4 +40,4 @@
   
     ##
   
-  ![Snake animation](https://github.com/gabrielhcamacho/gabrielhcamacho)
+  ![Snake animation](https://github.com/gabrielhcamacho/gabrielhcamacho/blob/output/github-contribution-grid-snake.svg)
