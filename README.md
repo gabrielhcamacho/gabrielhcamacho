@@ -26,7 +26,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://img1.gratispng.com/20180715/ohc/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1bbcd03.5052416115316819697692.jpg">
+
 </div>
     
   ##
