@@ -38,6 +38,3 @@
  
 </div>
   
-    ##
-  
-  ![Snake animation](github.com/gabrielhcamacho/gabrielhcamacho/blob/main/.github/workflows/blank.yml)
