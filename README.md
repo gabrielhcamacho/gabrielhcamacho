@@ -1,5 +1,5 @@
-### Hello there! I'm Gabriel Camacho 👋
-  ## Junior Software Engineer learning more every day
+## Hello there! I'm Gabriel Camacho 👋
+  ### Junior Software Engineer learning more every day
  
 <!--
 
