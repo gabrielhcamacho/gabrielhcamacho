@@ -1,6 +1,5 @@
-### Olá! Eu sou o Gabriel Camacho 👋
-
-  ##
+### Hello there! I'm Gabriel Camacho 👋
+  ## Junior Software Engineer learning more every day
  
 <!--
 
