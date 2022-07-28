@@ -36,8 +36,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielhcamacho&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhcamacho&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117&layout=compact"/>
 </div>
+  
+  ##
  
-  <div>
+  <div align="center">
     <a href="https://instagram.com/thegabrielcamacho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:gabrielcamacho@edu.unifil.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gabriel-hcamacho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
